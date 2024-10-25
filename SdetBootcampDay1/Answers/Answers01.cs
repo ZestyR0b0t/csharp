@@ -12,7 +12,6 @@ namespace SdetBootcampDay1.Answers
             var account = new Account(AccountType.Checking);
 
             account.Deposit(200);
-
             /**
              * TODO: add an assertion that verifies that the resulting balance is 200.
              */
